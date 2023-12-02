@@ -1,0 +1,12 @@
+.container {
+	padding: 0 6rem;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.btndisabled {
+	background-color: #cccccc !important;
+	color: #666666 !important;
+	cursor: not-allowed !important;
+	margin: 5px;
+}

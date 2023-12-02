@@ -1,5 +1,5 @@
+import CombinedForm from '../components/CombinedForm';
 import ContactCard from '../components/ContactCard';
-import ContactForm from '../components/ContactForm';
 
 import styles from './contact.module.css';
 
@@ -13,7 +13,7 @@ const ContactPage = () => {
 					<h2>
 						We&apos;d love to hear <span> from you </span>
 					</h2>
-					<ContactForm />
+					<CombinedForm />
 				</section>
 			</div>
 			<iframe
